@@ -13,7 +13,9 @@ There are two types of Solbot NFT's
 
 <strong>Licensing:</strong>
 
-&nbsp;&nbsp; &bull; The first collection of Solbots to leave the factory will be Boss bots. Boss bots can be collected, traded, transferred, or resold.
+&nbsp;&nbsp; &bull; The first collection of Solbots to leave the factory will be Boss bots. 
+
+&nbsp;&nbsp; &bull; Boss bots can be collected, traded, transferred, or resold.
 
 <strong>Purpose:</strong>
 
