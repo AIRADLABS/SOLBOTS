@@ -19,9 +19,9 @@ Solbots are Solana based NFT's, of which there are two types:
 
 <strong>Purpose:</strong>
 
-&nbsp;&nbsp;&bull; Prime Bots owners also have governing rights.
+&nbsp;&nbsp;&bull; Prime Bot owners also have governing rights.
 
-&nbsp;&nbsp;&bull; Prime Bot owners may vote on community driven changes to the Metasphere. 
+&nbsp;&nbsp;&bull; Owners may vote on community driven changes to the Metasphere. 
 
 &nbsp;&nbsp;&bull; You may cast 1 vote for each Prime Bot you own.
 
