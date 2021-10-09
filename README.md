@@ -13,15 +13,15 @@ Solbots are Solana based NFT's, of which there are two types:
 
 <strong>Licensing:</strong>
 
-&nbsp;&nbsp; &bull; The first collection of Solbots to leave the factory will be Boss bots. 
+&nbsp;&nbsp; &bull; The first collection of Solbots to leave the factory will be Boss Bots. 
 
-&nbsp;&nbsp; &bull; Boss bots can be collected, traded, transferred, or resold.
+&nbsp;&nbsp; &bull; Boss Bots can be collected, traded, transferred, or resold.
 
 <strong>Purpose:</strong>
 
 &nbsp;&nbsp;&bull; These bots govern by allowing the bot owner the right to vote on community driven changes to the Metasphere. 
 
-&nbsp;&nbsp;&bull; Every Boss Bot you own counts as a vote.
+&nbsp;&nbsp;&bull; Every Boss Bot you own can cast one vote.
 
 # Worker Bots
 
