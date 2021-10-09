@@ -5,38 +5,38 @@ Whereas data written to a blockchain is not meant to be changed..  The solbots.i
 
 Solbots are Solana based NFT's, of which there are two types:
 
-# Boss Bots
+# Prime Bots
 
 <strong>Design:</strong>
 
 &nbsp;&nbsp;&bull; These bots are uniquely named and designed as comedic robot parodies.
 
+&nbsp;&nbsp; &bull; The first collection of 12 Solbots to leave the factory will be Prime Bots. 
+
 <strong>Licensing:</strong>
 
-&nbsp;&nbsp; &bull; The first collection of Solbots to leave the factory will be Boss Bots. 
-
-&nbsp;&nbsp; &bull; Boss Bots can be collected, traded, transferred, or resold.
+&nbsp;&nbsp; &bull; Prime Bots can be collected, traded, transferred, or resold.
 
 <strong>Purpose:</strong>
 
-&nbsp;&nbsp;&bull; These bots govern by allowing the bot owner the right to vote on community driven changes to the Metasphere. 
+&nbsp;&nbsp;&bull; Prime Bots owners also have governing rights.
 
-&nbsp;&nbsp;&bull; Every Boss Bot you own can cast one vote.
+&nbsp;&nbsp;&bull; Prime Bot owners may vote on community driven changes to the Metasphere. 
 
-# Worker Bots
+&nbsp;&nbsp;&bull; You may cast 1 vote for each Prime Bot you own.
+
+# Dev Bots
 
 <strong>Design:</strong>
 
-&nbsp;&nbsp;&bull; These bots will be generated randomly from layers.
+&nbsp;&nbsp;&bull; These bots will be generated from random layers.
 
-&nbsp;&nbsp;&bull; They will also have first and last name combinations.
-
-&nbsp;&nbsp;&bull; They are randomly chosen from a large database of popular first and last names by region.
+&nbsp;&nbsp;&bull; Names are randomly chosen from a large database of popular first and last names by region.
 
 <strong>Licensing:</strong>
 
-&nbsp;&nbsp;&bull; Worker bots can be collected. However, they can NOT be traded, transferred, or resold at this time.
+&nbsp;&nbsp; &bull; Dev Bots can be collected, traded, transferred, or resold.
 
 <strong>Purpose:</strong>
 
-&nbsp;&nbsp;&bull; These bots serve as a <strong><i>proof of ownership</i></strong> of a Solbot Pod.
+&nbsp;&nbsp;&bull; All bots serve as a <strong><i>proof of ownership</i></strong> of a Solbot Pod.
