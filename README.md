@@ -31,7 +31,7 @@ Solbots are Solana based NFT's, of which there are two types:
 
 &nbsp;&nbsp;&bull; These bots will be generated from random layers.
 
-&nbsp;&nbsp;&bull; Names are randomly chosen from a large database of popular first and last names by region.
+&nbsp;&nbsp;&bull; Randomly chosen names of popular first and last names by region.
 
 <strong>Licensing:</strong>
 
